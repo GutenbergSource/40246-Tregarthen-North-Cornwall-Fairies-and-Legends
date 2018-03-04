@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>North Cornwall Fairies and Legends</dc:title>
+      <dc:creator>Enys Tregarthen [Pseud. of Nellie Sloggett (1851–1923)]</dc:creator>
+      <dc:creator>William Henry Charles Groome</dc:creator>
+      <dc:creator>Howard Fox (1836–1922)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2012-07-16</dc:publisher>
+      <dc:date>2012-07-16</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+Scans for this work are available at the Internet Archive (1).
+The plate on page 101 is missing in the available scan set.
+
+</dc:rights>
+      <dc:subject>Tales, English -- England Cornwall</dc:subject>
+      <dc:subject>Legends -- England Cornwall</dc:subject>
+      <dc:subject>Folklore -- England Cornwall</dc:subject>
+      <dc:description>A collection of folk-tales and legends from North Cornwall, illustrated with photographs and drawings by W. H. C. Groome.</dc:description>
+      <dc:identifier>pg:40246</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
